@@ -3,7 +3,7 @@ YOLO implementation for realtime object detection and classification of roadsign
 
 This is a darknet implementation of YOLO to detect and classify roadsigns with a good confidance score.
 
-Currently the model is aple to classify and detect one of the following 3 road-signs:
+Currently the model is able to classify and detect one of the following 3 road-signs:
 1) Speed Limit
 2) Left Turn
 3) Right Turn
