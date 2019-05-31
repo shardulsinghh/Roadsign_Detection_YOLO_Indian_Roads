@@ -12,3 +12,6 @@ The  model was trained on a basic 13" Macbook Pro machine without any GPU suppor
 The results can be found in the YOLO_Predictions.zip directory.
 
 We can immensely improve the model performance by training the model on a GPU and adding a more classes of roadsigns.
+
+To run:
+run the run_yolo_cam.py file in darknet folder after specifying the weights and config files in the script. Space =bar takes a screenshot of the frame and runs the object detector over it. 
